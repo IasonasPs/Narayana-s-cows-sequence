@@ -1,4 +1,5 @@
 ﻿using Narayana_s_cows_sequence.Models;
+using System.Globalization;
 
 namespace Narayana_s_cows_sequence
 {
@@ -10,6 +11,8 @@ namespace Narayana_s_cows_sequence
             Console.WriteLine("Lets Count Cows :");
             Console.WriteLine();
             Sequence.GetSequence();
+
+            //Console.WriteLine(1234123.ToString("#,#", CultureInfo.InvariantCulture)); //<-------
         }
     }
 }
