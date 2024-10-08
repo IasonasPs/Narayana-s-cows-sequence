@@ -14,7 +14,7 @@ Exponential growth occurs when a quantity increases at a rate  proportional to i
 This behavior is typically modeled by the equation y = a * e^(bx), where a and b are constants.
 or more specifically P(t)= P0 * e^(rt)
 
-where : P(t) is the population at time t
-		P0 is the initial population
-		r is the growth rate
-		t is the time elapsed  (or the number of iterations from a discrete perspective)
+where : P(t) is the population at time t ,
+		P0 is the initial population ,
+		r is the growth rate ,
+		t is the time elapsed  (or the number of iterations from a discrete perspective).
