@@ -1,5 +1,7 @@
 # Narayana's cows sequence
 
+https://en.wikipedia.org/wiki/Narayana_Pandita_(mathematician)#Narayana's_cows_sequence
+
 Experimenting with different implementations of the algorithm 
 and also with hexadecimal and binary representations of the numbers,
 as the decimal representation of the long type runs out of digits at around 10^19.
