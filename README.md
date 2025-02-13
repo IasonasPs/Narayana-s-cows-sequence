@@ -5,9 +5,9 @@ This repository explores Narayana's cows sequence, a fascinating mathematical se
 ## About Narayana's Cows Sequence
 The sequence is defined by the recurrence relation:
 
-\[
+\
 N(n)=N(n−1)+N(n−3)
-\]
+\
 
 Where the initial terms are:
 \[
