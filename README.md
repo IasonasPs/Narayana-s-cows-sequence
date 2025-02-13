@@ -5,14 +5,13 @@ This repository explores Narayana's cows sequence, a fascinating mathematical se
 ## About Narayana's Cows Sequence
 The sequence is defined by the recurrence relation:
 
-\
-N(n)=N(n−1)+N(n−3)
-\
+\N(n)=N(n−1)+N(n−3)
+
 
 Where the initial terms are:
-\[
+
 N(0) = 0, \quad N(1) = 1, \quad N(2) = 1
-\]
+
 
 For more information, refer to the following resources:
 - [Wikipedia on Narayana Pandita and his sequence](https://en.wikipedia.org/wiki/Narayana_Pandita_(mathematician)#Narayana's_cows_sequence) ![Wikipedia Icon](https://img.icons8.com/color/48/000000/wikipedia.png)
