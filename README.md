@@ -32,7 +32,7 @@ This repository contains:
    - Demonstration of exponential growth behavior in the sequence.
    - Mathematical modeling using the exponential growth equation:
      
-     P(t) = P_0 \cdot e^{rt}
+     P(t) = P<sub>0</sub> e<sup>rt</sup>
      
      Where:
      - \(P(t)\): Population at time \(t\)
