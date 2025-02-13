@@ -47,7 +47,7 @@ This repository contains:
   
 
 ## Challenges
-One challenge in working with this sequence is that the decimal representation of values exceeds standard data types (e.g., `long`) at around \(10^{19}\). To address this, the repository includes:
+One challenge in working with this sequence is that the decimal representation of values exceeds standard data types (e.g., `long`) at around 10<sup>19</sup>. To address this, the repository includes:
 - Alternative representations (hexadecimal, binary) for large numbers.
 - Optimized algorithms to handle growth efficiently.
 
