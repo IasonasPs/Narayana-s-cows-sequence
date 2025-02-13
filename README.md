@@ -26,7 +26,7 @@ This repository contains:
      - Hexadecimal
      - Binary
 
-   ![Code Icon](https://img.icons8.com/fluency/48/000000/code.png)
+
 
 2. **Exponential Growth Analysis**:
    - Demonstration of exponential growth behavior in the sequence.
