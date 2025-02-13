@@ -5,12 +5,11 @@ This repository explores Narayana's cows sequence, a fascinating mathematical se
 ## About Narayana's Cows Sequence
 The sequence is defined by the recurrence relation:
 
-\N(n)=N(n−1)+N(n−3)
-
+N(n)=N(n−1)+N(n−3)
 
 Where the initial terms are:
 
-N(0) = 0, \quad N(1) = 1, \quad N(2) = 1
+N(0) = 0, N(1) = 1, N(2) = 1
 
 
 For more information, refer to the following resources:
@@ -32,9 +31,9 @@ This repository contains:
 2. **Exponential Growth Analysis**:
    - Demonstration of exponential growth behavior in the sequence.
    - Mathematical modeling using the exponential growth equation:
-     \[
+     
      P(t) = P_0 \cdot e^{rt}
-     \]
+     
      Where:
      - \(P(t)\): Population at time \(t\)
      - \(P_0\): Initial population
