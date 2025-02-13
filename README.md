@@ -40,11 +40,11 @@ This repository contains:
      - \(r\): Growth rate
      - \(t\): Time elapsed or iterations (discrete perspective)
 
-   ![Graph Icon](https://img.icons8.com/fluency/48/000000/combo-chart.png)
+   
 
    Below is an example graph showing the growth of the sequence over iterations:
 
-   ![Exponential Growth Graph](https://via.placeholder.com/600x300?text=Exponential+Growth+Graph)
+  
 
 ## Challenges
 One challenge in working with this sequence is that the decimal representation of values exceeds standard data types (e.g., `long`) at around \(10^{19}\). To address this, the repository includes:
