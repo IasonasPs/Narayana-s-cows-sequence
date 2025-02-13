@@ -35,10 +35,10 @@ This repository contains:
      P(t) = P<sub>0</sub> e<sup>rt</sup>
      
      Where:
-     - \(P(t)\): Population at time \(t\)
-     - (P<sub>0</sub>): Initial population
-     - \(r\): Growth rate
-     - \(t\): Time elapsed or iterations (discrete perspective)
+     - P(t): Population at time \(t\)
+     - P<sub>0</sub>: Initial population
+     - r: Growth rate
+     - t: Time elapsed or iterations (discrete perspective)
 
    
 
