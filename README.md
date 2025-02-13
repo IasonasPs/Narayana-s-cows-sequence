@@ -54,12 +54,11 @@ One challenge in working with this sequence is that the decimal representation o
 ## License
 This project is released into the public domain under the [Unlicense](https://unlicense.org). For details, see the [LICENSE](./LICENSE) file.
 
-![License Icon](https://img.icons8.com/fluency/48/000000/license.png)
 
 ## Contributions
 Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request to improve the code, documentation, or analysis.
 
-![Contribute Icon](https://img.icons8.com/fluency/48/000000/git-pull-request.png)
+
 
 ---
 
