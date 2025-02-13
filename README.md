@@ -36,7 +36,7 @@ This repository contains:
      
      Where:
      - \(P(t)\): Population at time \(t\)
-     - \(P_0\): Initial population
+     - (P<sub>0</sub>): Initial population
      - \(r\): Growth rate
      - \(t\): Time elapsed or iterations (discrete perspective)
 
