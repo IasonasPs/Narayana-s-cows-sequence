@@ -13,7 +13,7 @@ N(0) = 0, N(1) = 1, N(2) = 1
 
 
 For more information, refer to the following resources:
-- [Wikipedia on Narayana Pandita and his sequence](https://en.wikipedia.org/wiki/Narayana_Pandita_(mathematician)#Narayana's_cows_sequence) ![Wikipedia Icon](https://img.icons8.com/color/48/000000/wikipedia.png)
+- [Wikipedia on Narayana Pandita and his sequence](https://en.wikipedia.org/wiki/Narayana_Pandita_(mathematician)#Narayana's_cows_sequence)      ![Wikipedia Icon](https://img.icons8.com/color/48/000000/wikipedia.png)
 - [Journal of Integer Sequences](https://cs.uwaterloo.ca/journals/JIS/VOL23/Das/bravo17.pdf) ![Journal Icon](https://img.icons8.com/ios-filled/50/000000/journal.png)
 
 ## Repository Overview
